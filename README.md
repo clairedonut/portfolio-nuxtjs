@@ -1,4 +1,4 @@
-# portfolio-nuxtjs
+# Portfolio in Nuxt.js (Vue.js framework)
 
 `nuxt.js` `vue` `vue.js` `sass`
 
